@@ -19,7 +19,7 @@ avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 #
 # Jekyll 4.* / localhost or other hosts - set baseurl to "" and serve the site
 # from the root of your domain
-baseurl: ""
+baseurl: "BillyDu-TJ/BillyDu-TJ.github.io"
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
 include: ["_pages", "_portfolio"]
